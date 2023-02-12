@@ -1,0 +1,10 @@
+D:\Work\Lasse#1382\BlackboxApp\BlackboxApp\bin\Debug\BlackboxApp.exe.config
+D:\Work\Lasse#1382\BlackboxApp\BlackboxApp\bin\Debug\BlackboxApp.exe
+D:\Work\Lasse#1382\BlackboxApp\BlackboxApp\bin\Debug\BlackboxApp.pdb
+D:\Work\Lasse#1382\BlackboxApp\BlackboxApp\obj\Debug\BlackboxApp.csproj.AssemblyReference.cache
+D:\Work\Lasse#1382\BlackboxApp\BlackboxApp\obj\Debug\BlackboxApp.Form1.resources
+D:\Work\Lasse#1382\BlackboxApp\BlackboxApp\obj\Debug\BlackboxApp.Properties.Resources.resources
+D:\Work\Lasse#1382\BlackboxApp\BlackboxApp\obj\Debug\BlackboxApp.csproj.GenerateResource.cache
+D:\Work\Lasse#1382\BlackboxApp\BlackboxApp\obj\Debug\BlackboxApp.csproj.CoreCompileInputs.cache
+D:\Work\Lasse#1382\BlackboxApp\BlackboxApp\obj\Debug\BlackboxApp.exe
+D:\Work\Lasse#1382\BlackboxApp\BlackboxApp\obj\Debug\BlackboxApp.pdb
